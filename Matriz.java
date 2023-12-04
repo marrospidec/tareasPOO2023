@@ -1,10 +1,9 @@
 package holaMundo;
 
 public class Matriz {
+		
+	public void rellenarMostrar() {
 	
-	
-	
-	public static void main() {
 		String[][] matriz = new String[3][3];
 		matriz[0][0] = "A";
 		
